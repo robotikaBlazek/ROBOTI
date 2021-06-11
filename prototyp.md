@@ -1,6 +1,7 @@
 **Prototyp bomby na bramporový časovač **
 
-Bramborové baterie napájejí časovač a když se vybijí, tak bomba vybouchne.
+Bramborové baterie napájejí časovač, který je napojen na bombu.
+Po určitém čase se Bramborové baterie vybijí a tím bombu detonují.
 
 
 odkaz na schéma v Tinkercadu
